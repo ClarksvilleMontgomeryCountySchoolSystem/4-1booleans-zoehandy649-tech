@@ -23,7 +23,7 @@ near_sink = False    # You are not sitting near the sink.
 # ------Group 2--------
 
 # Question: "Are you NOT wearing a hat?"
-not_wearing_hat = True     # You have a hat on your head.
+not_wearing_hat = False     # You have a hat on your head.
 
 
 # Question: "Did you NOT forget your homework?"
